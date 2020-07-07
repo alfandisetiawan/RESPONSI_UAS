@@ -1,0 +1,13 @@
+E:\pemrograman\responsiUAS\RESPONSIUAS\bin\Debug\netcoreapp3.1\RESPONSIUAS.exe
+E:\pemrograman\responsiUAS\RESPONSIUAS\bin\Debug\netcoreapp3.1\RESPONSIUAS.deps.json
+E:\pemrograman\responsiUAS\RESPONSIUAS\bin\Debug\netcoreapp3.1\RESPONSIUAS.runtimeconfig.json
+E:\pemrograman\responsiUAS\RESPONSIUAS\bin\Debug\netcoreapp3.1\RESPONSIUAS.runtimeconfig.dev.json
+E:\pemrograman\responsiUAS\RESPONSIUAS\bin\Debug\netcoreapp3.1\RESPONSIUAS.dll
+E:\pemrograman\responsiUAS\RESPONSIUAS\bin\Debug\netcoreapp3.1\RESPONSIUAS.pdb
+E:\pemrograman\responsiUAS\RESPONSIUAS\obj\Debug\netcoreapp3.1\RESPONSIUAS.csprojAssemblyReference.cache
+E:\pemrograman\responsiUAS\RESPONSIUAS\obj\Debug\netcoreapp3.1\RESPONSIUAS.AssemblyInfoInputs.cache
+E:\pemrograman\responsiUAS\RESPONSIUAS\obj\Debug\netcoreapp3.1\RESPONSIUAS.AssemblyInfo.cs
+E:\pemrograman\responsiUAS\RESPONSIUAS\obj\Debug\netcoreapp3.1\RESPONSIUAS.csproj.CoreCompileInputs.cache
+E:\pemrograman\responsiUAS\RESPONSIUAS\obj\Debug\netcoreapp3.1\RESPONSIUAS.dll
+E:\pemrograman\responsiUAS\RESPONSIUAS\obj\Debug\netcoreapp3.1\RESPONSIUAS.pdb
+E:\pemrograman\responsiUAS\RESPONSIUAS\obj\Debug\netcoreapp3.1\RESPONSIUAS.genruntimeconfig.cache
